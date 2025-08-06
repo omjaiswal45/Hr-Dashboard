@@ -4,14 +4,14 @@ A modern React-based HR dashboard for employee management with analytics, bookma
 
 ## Features
 
-- 📊 **Employee Management**: View, search, and filter employees
-- 🔖 **Bookmarks**: Save and manage favorite employees
-- 📈 **Analytics**: Department performance charts and metrics
-- 🌙 **Dark Mode**: Toggle between light and dark themes
-- 📱 **Responsive Design**: Works on desktop and mobile devices
-- 🔍 **Advanced Search**: Search by name, email, or department
-- 📊 **Data Visualization**: Charts using Recharts library
-- 🎨 **Modern UI**: Built with Tailwind CSS and Lucide React icons
+- **Employee Management**: View, search, and filter employees
+- **Bookmarks**: Save and manage favorite employees
+- **Analytics**: Department performance charts and metrics
+- **Dark Mode**: Toggle between light and dark themes
+- **Responsive Design**: Works on desktop and mobile devices
+- **Advanced Search**: Search by name, email, or department
+- **Data Visualization**: Charts using Recharts library
+- **Modern UI**: Built with Tailwind CSS and Lucide React icons
 
 ## Tech Stack
 
